@@ -3,6 +3,7 @@
     package="com.kodekita.kotlincodelabs">
 
     <application
+        android:name=".base.MainApplication"
         android:allowBackup="false"
         android:fullBackupContent="false"
         android:icon="@mipmap/ic_launcher"
