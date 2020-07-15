@@ -8,4 +8,4 @@ The sample APK can be downloaded from here. (link will be available soon)
 I've used Google [recommended app architecture](https://developer.android.com/jetpack/guide) following Model-View-ViewModel (MVVM) architecture, exposing PresentationModel out from the ViewModel wrapped in LiveData to update the UI in an Apps lifecycle.
 
 # Libraries Used 📚
-Dependency Injection : 🚀 https://insert-koin.io/  =>  QuickStart [here]()
+Dependency Injection : 🚀 https://insert-koin.io/  =>  QuickStart [here](https://github.com/dwiputrarf/kotlincodelabs/blob/master/tutorial/Koin.md)
