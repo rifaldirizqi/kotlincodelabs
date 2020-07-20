@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">kotlincodelabs</string>
+
+    // Menu Title
+    <string name="menu_home">Home</string>
+    <string name="menu_account">Account</string>
+    <string name="menu_search">Search</string>
+
 </resources>

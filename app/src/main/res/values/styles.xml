@@ -7,4 +7,10 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="txtBottomNav" parent="MaterialAlertDialog.MaterialComponents.Title.Icon">
+        <item name="android:textSize">@dimen/dimen_12sp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@drawable/selector_nav_icon</item>
+    </style>
+
 </resources>
