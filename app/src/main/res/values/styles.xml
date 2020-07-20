@@ -7,6 +7,13 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="FullScreen" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
     <style name="txtBottomNav" parent="MaterialAlertDialog.MaterialComponents.Title.Icon">
         <item name="android:textSize">@dimen/dimen_12sp</item>
         <item name="android:textAllCaps">true</item>
